@@ -176,7 +176,7 @@ form button{
 }
 
   /* Media Query for responsive navigation */
-  @media (max-width: 600px) {
+  @media (max-width: 700px) {
     nav .title {
       font-size: 1.2em;
     }
@@ -210,7 +210,7 @@ form button{
       margin: 0 auto;
     }
   }
-  @media (max-width: 480px){
+  @media (max-width: 500px){
     .background-image{
         flex-direction: column;
         justify-content: center;
